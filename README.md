@@ -1,5 +1,4 @@
 <h1 align="center">Oi 👋, Sou o Pedro Louzada</h1>
-<h3 align="center">Estudante de programação que sonha em ingressar no mercado de Tecnologia!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrolouzadas&label=Profile%20views&color=0e75b6&style=flat" alt="pedrolouzadas" /> </p>
 
